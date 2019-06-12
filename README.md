@@ -1,7 +1,4 @@
 # Angular Loading
-[![Gittip](http://img.shields.io/gittip/darthwade.svg)](https://www.gittip.com/darthwade/)
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=darthwade&url=https://github.com/darthwade/angular-loading&title=Angular%20Loading&language=&tags=github&category=software) 
-
 Angular directive that lets you to prevent user interaction with part of the page and display loading/busy indicator (spinner based on spin.js)
 
 **Demo:** http://embed.plnkr.co/XLL3li/preview
@@ -15,7 +12,7 @@ $ bower install angular-loading --save
 
 Using `git`:
 ```shell 
-$ git clone https://github.com/darthwade/angular-loading.git
+$ git clone https://github.com/thelegendoflinas/angular-loading.git
 ```
 
 ## Requirements & Dependencies
@@ -26,8 +23,8 @@ $ git clone https://github.com/darthwade/angular-loading.git
 
 Add `angular-loading.min.js` and `angular-loading.css` to your HTML. Also add [spin.js](https://github.com/fgnass/spin.js) library.
 ``` html
-<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.13/angular.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/spin.js/1.2.7/spin.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/spin.js/2.3.2/spin.min.js"></script>
 <script src="//rawgithub.com/darthwade/angular-loading/master/angular-loading.min.js"></script>
 
 <link rel="stylesheet" type="text/css" href="//rawgithub.com/darthwade/angular-loading/master/angular-loading.css"/>
