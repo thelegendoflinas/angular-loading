@@ -4,6 +4,10 @@ Angular directive that lets you to prevent user interaction with part of the pag
 **Demo:** http://embed.plnkr.co/XLL3li/preview
 
 ## Installation
+Using `npm`:
+```shell 
+$ npm install angularjs-loading --save
+```
 
 Using `bower`:
 ```shell 
@@ -157,4 +161,5 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 Licensed under the MIT License. See the LICENSE file for details.
 
-Copyright (c) 2014 [Vadym Petrychenko](http://petrychenko.com/)
+Forked from 
+Copyright (c) 2019 Anil Sadhu [darthwade/angular-loading](https://github.com/darthwade/angular-loading)
