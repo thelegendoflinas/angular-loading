@@ -17,7 +17,9 @@
     "grunt-contrib-watch": "^0.6.1",
     "jshint-stylish": "^1.0.1",
     "time-grunt": "^1.1.1",
-    "grunt-shell": "^1.1.2"
+    "grunt-shell": "^1.1.2",
+    "spin.js": "^2.3.2",
+    "angular": "^1.5.8"
   },
   "engines": {
     "node": ">=0.8.0"
