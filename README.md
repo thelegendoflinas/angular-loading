@@ -162,4 +162,4 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 Licensed under the MIT License. See the LICENSE file for details.
 
 Forked from 
-Copyright (c) 2019 Anil Sadhu [darthwade/angular-loading](https://github.com/darthwade/angular-loading)
+Copyright (c) 2019 Anil Sadhu. Forked from [darthwade/angular-loading](https://github.com/darthwade/angular-loading)

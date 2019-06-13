@@ -1,9 +1,9 @@
 {
-  "name": "angular-loading",
+  "name": "angularjs-loading",
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/darthwade/angular-loading.git"
+    "url": "git+https://github.com/thelegendoflinas/angular-loading.git"
   },
   "dependencies": {},
   "devDependencies": {
@@ -24,5 +24,17 @@
   },
   "scripts": {
     "test": "grunt test"
-  }
+  },
+  "description": "Angular directive that lets you to prevent user interaction with part of the page and display loading/busy indicator (spinner based on spin.js)",
+  "bugs": {
+    "url": "https://github.com/thelegendoflinas/angular-loading/issues"
+  },
+  "homepage": "https://github.com/thelegendoflinas/angular-loading#readme",
+  "main": "angular-loading.js",
+  "keywords": [
+    "angularjs-loading",
+    "angular-loading"
+  ],
+  "author": "Anil Sadhu",
+  "license": "ISC"
 }
